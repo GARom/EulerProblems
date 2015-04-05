@@ -6,7 +6,7 @@ public class EulerProblem3 {
     
     public static void main(String[] args) {
         EulerProblem3 prob = new EulerProblem3();
-        prob.largestPrimeFactor(600851475143l);
+        prob.largestPrimeFactor(600851475143L);
         
     }
     
