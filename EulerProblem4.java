@@ -1,11 +1,5 @@
-
-
 package eulerproblems;
 
-/**
- *
- * @author Guillermo
- */
 public class EulerProblem4 {
 
     public static void main(String[] args) {
