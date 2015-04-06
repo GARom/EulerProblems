@@ -25,7 +25,7 @@ public class EulerProblem7 {
             if (isPrime) {
                 primes.add(current);
             }
-            current = current +2;
+            current = current + 2;
             
         }
         System.out.println(primes.get(primes.size() -1));

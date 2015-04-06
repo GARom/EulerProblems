@@ -1,5 +1,3 @@
-package javaapplication3;
-
 public class EulerProblem8 {
 
     public static void main(String[] args) {
